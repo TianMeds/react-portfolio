@@ -1,7 +1,7 @@
 {
+  "homepage": "https://tianmeds.github.io/react-portfolio",
   "name": "official-portfolio",
   "version": "0.1.0",
-  "homepage": "https://tianmeds.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
